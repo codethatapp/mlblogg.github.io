@@ -3,15 +3,12 @@ title = "About Hugo"
 date = "2014-04-09"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+HHi, i'm Jon, i'm learning ML/ai and i thought it be helpful to share my journey  and process of learing ML/ai.
 
-It makes use of a variety of open source projects including:
+i believe that teaching helps me learn.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://github.com/mlblogg
+* https://twitter.com/mlblogg
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
 
